@@ -1,1 +1,3 @@
-# Project1
+# GeoTrend Project
+
+****** Link to deployed GitHub Page ******
